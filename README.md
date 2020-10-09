@@ -1,0 +1,2 @@
+# Split-OCR
+OCR Application 
